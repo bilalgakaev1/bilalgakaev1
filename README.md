@@ -25,4 +25,4 @@ Frontend-разработчик · React / TypeScript · Удалённо
 
 ## 📬 Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gakaevb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalgakaev1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bilalgakaev1@gmail.com) 
