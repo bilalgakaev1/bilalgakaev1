@@ -15,9 +15,9 @@ Frontend-разработчик · React / TypeScript · Удалённо
 
 | Проект | Описание | Стек | Демо |
 |--------|----------|------|------|
-| [Stellar Burgers](https://github.com/bilalgakaev1/stellar-burgers) | SPA космической бургерной с реал-тайм лентой заказов | React, TS, Redux, WebSocket, JWT | [▶ Live](https://stellar-burgers-gules-ten.vercel.app) |
-| [Вебларёк](https://github.com/bilalgakaev1/weblarek) | Интернет-магазин с MVP-архитектурой | TS, EventEmitter, SCSS | — |
-| [Место](https://github.com/bilalgakaev1/mesto-project-ff) | SPA для обмена фотографиями | React, JS, Context API, JWT | — |
+| [Stellar Burgers](https://github.com/bilalgakaev1/stellar-burgers) | SPA космической бургерной с реал-тайм лентой заказов | React, TS, Redux, WebSocket, JWT | [▶ Live](https://stellar-burgers-825emhqu2-bilalgakaev1s-projects.vercel.app/) |
+| [Вебларёк](https://github.com/bilalgakaev1/weblarek) | Интернет-магазин с MVP-архитектурой | TS, EventEmitter, SCSS | [▶ Live](https://weblarek-bv4592eew-bilalgakaev1s-projects.vercel.app/) |
+| [Место](https://github.com/bilalgakaev1/mesto-project-ff) | SPA для обмена фотографиями | React, JS, Context API, JWT | [▶ Live](https://mesto-project-ff-r9pt.vercel.app/) |
 
 ## 📊 Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalgakaev1&show_icons=true&theme=dark&hide_border=true)
